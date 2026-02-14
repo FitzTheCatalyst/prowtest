@@ -12,3 +12,7 @@ func util() string {
 
 	return "util"
 }
+
+func feature1() string {
+	return "feature1"
+}
